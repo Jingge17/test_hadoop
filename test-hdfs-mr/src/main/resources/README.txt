@@ -1,0 +1,1 @@
+core-site.xml.bak和hdfs-site.xml.bak去掉bak后生效
